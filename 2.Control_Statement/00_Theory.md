@@ -7,6 +7,7 @@
 
 <h5 align="center"><b>🔹 if Statement</b> </h5>
 * Executes code only if the condition is true.
+
 ```
 if (condition) {
     // true block
