@@ -87,7 +87,7 @@ while(condition) {
 ```
 
 
-<h2 align="center"><b> 🔹 do-while loop </b></h2>
+<h5 align="center"><b> 🔹 do-while loop </b></h5>
 
 ```
 do {
@@ -103,7 +103,7 @@ do {
 <h5 align="center"><b> 🔹 break </b></h5>
 Exits the loop or switch immediately.
 
-<h2 align="center"><b> 🔹 continue </b></h2>
+<h5 align="center"><b> 🔹 continue </b></h5>
 Skips the current iteration and moves to the next.
 
 
