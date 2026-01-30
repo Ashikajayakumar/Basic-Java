@@ -1,0 +1,108 @@
+
+                                          🧭 Control Statements in Java
+
+<h2 align="center"><b> ✅ 1. Decision Control Statements</b></h2>
+
+* Used to make decisions based on conditions.
+
+<h5 align="center"><b>🔹 if Statement</b> </h5>
+* Executes code only if the condition is true.
+```
+if (condition) {
+    // true block
+}
+```
+
+<h5 align="center"><b>🔹 if...else </b> </h5>
+
+* Choose between two blocks based on condition.
+```
+if (condition) {
+    // true block
+} else {
+    // false block
+}
+```
+
+
+<h5 align="center"><b>🔹 else if Ladder </b></h5>
+
+* Checks multiple conditions in sequence.
+```
+if (cond1) {
+    // block 1
+} else if (cond2) {
+    // block 2
+} else {
+    // default block
+}
+```
+
+<h5 align="center"><b> 🔹 Ternary Operator ? : </b></h5>
+
+* Shorthand for if...else.
+```
+(condition) ? value_if_true : value_if_false;
+```
+
+
+
+<h5 align="center"><b>🔹 switch-case </b></h5>
+
+* Used when multiple conditions depend on a single expression.
+```
+switch(expression) {
+    case constant1:
+        // code
+        break;
+    case constant2:
+        // code
+        break;
+    default:
+        // default code
+}
+```
+
+
+<h2 align="center"><b> 🔁 2. Iterative (Looping) Statements </b></h2>
+
+* Used to execute a block of code repeatedly.
+
+<h5 align="center"><b>🔹 for loop </b></h5>
+
+```
+for(initialization; condition; increment) {
+    // loop body
+}
+```
+
+
+<h5 align="center"><b>🔹 while loop </b></h5>
+
+```
+while(condition) {
+    // loop body
+}
+```
+
+
+<h2 align="center"><b> 🔹 do-while loop </b></h2>
+
+```
+do {
+    // loop body
+} while(condition);
+```
+
+
+<h2 align="center"><b> 🚀 3. Jumping Statements </b></h2> 
+
+* Used to jump from one part of the code to another.
+
+<h5 align="center"><b> 🔹 break </b></h5>
+Exits the loop or switch immediately.
+
+<h2 align="center"><b> 🔹 continue </b></h2>
+Skips the current iteration and moves to the next.
+
+
