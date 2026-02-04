@@ -3,7 +3,7 @@
 🟢 Topic ➡ Jumping Statements Questions (break and continue) 
 
 
- 
+
   
 🔹 1. Print natural numbers 1 to 20, skipping those divisible by 3
 
