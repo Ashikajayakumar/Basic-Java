@@ -1,8 +1,8 @@
 ⭐⭐⭐⭐⭐⭐⭐ CODECRAFT BY ASHIKA ⭐⭐⭐⭐⭐⭐⭐
 🟢 Language ➡ Java
-🟢 Topic ➡ Jumping Statements Questions (break and continue) 
+🟢 Topic ➡ Jumping Statements Questions (break and continue)  
 
-  
+   
 🔹 1. Print natural numbers 1 to 20, skipping those divisible by 3
 
 public class SkipDivisibleBy3 {
